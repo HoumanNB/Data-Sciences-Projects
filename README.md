@@ -1,1 +1,1 @@
-## This repository is not complete due to issues with uploading local files to github
+## This repository is currently incomplete due to issues with uploading local files to github
